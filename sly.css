@@ -1,0 +1,40 @@
+.jojo{
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+}
+div{
+    text-align: center;
+    white-space: nowrap; 
+    overflow-x: hidden;   
+}
+section img{
+    width: 375px;
+    height: auto;
+    border-radius: 20px;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    
+}
+section{
+    border: 15px solid white;
+    border-radius: 20px;
+    background: white;
+    margin: 40px 10px;
+    padding-right: 0;
+    padding-left: 0;
+    width: 375px;
+
+}
+h3{
+    font-size: 1.6em;
+    color: rgb(28, 32, 34);
+}
+body{
+    background-color: lightgray;
+     text-size-adjust: 50%;
+    /* overflow-x: hidden; */
+}
+
+
+
